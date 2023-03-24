@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    min-height: 100vh;
+
+    background-color: #9cc4f7;
+}
+.container {
+    max-width: 450px;
+}
+
+.logo {
+    width: 100%;
+}
