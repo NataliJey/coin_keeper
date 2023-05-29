@@ -20,7 +20,7 @@ include "../include_head.php"
             </div>
             <div class="m-3 d-flex justify-content-between">
                 <a href="reset.php">Забыли пароль?</a>
-                <a href="register.php">Создать аккаунт</a>
+                <a href="register.php">Создать аккаунт говна</a>
             </div>
         </div>
     </div>
